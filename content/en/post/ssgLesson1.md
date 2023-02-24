@@ -190,6 +190,8 @@ The `baseof.html` file is the base template for the site. The `list.html` file i
 
 ## Whats next?
 
+Part 2 of this tutorial is [here](../ssglesson2/).
+
 If you are interested in learning more about Hugo, you can check out the following resources:
 
 * [Hugo Documentation](https://gohugo.io/documentation/)
