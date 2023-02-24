@@ -3,6 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://rockemsockemrobotics.com/about/</loc>
+    <lastmod>2023-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://rockemsockemrobotics.com/post/</loc>
+    <lastmod>2023-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://rockemsockemrobotics.com/</loc>
+    <lastmod>2023-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://rockemsockemrobotics.com/post/ssglesson1/</loc>
+    <lastmod>2023-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://rockemsockemrobotics.com/media/</loc>
+    <lastmod>2023-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://rockemsockemrobotics.com/outreach/</loc>
+    <lastmod>2023-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://rockemsockemrobotics.com/sponsors/</loc>
+    <lastmod>2023-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://rockemsockemrobotics.com/tags/</loc>
+    <lastmod>2023-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://rockemsockemrobotics.com/tags/webdev/</loc>
+    <lastmod>2023-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -10,11 +51,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://rockemsockemrobotics.com/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://rockemsockemrobotics.com/tags/</loc>
+    <loc>https://rockemsockemrobotics.com/contact/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

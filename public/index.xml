@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FRC 453: Rockem Sockem Robotics on Ananke</title>
+    <title>FRC 453: Rockem Sockem Robotics on FRC 453 Website</title>
     <link>https://rockemsockemrobotics.com/</link>
-    <description>Recent content in FRC 453: Rockem Sockem Robotics on Ananke</description>
+    <description>Recent content in FRC 453: Rockem Sockem Robotics on FRC 453 Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://rockemsockemrobotics.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://rockemsockemrobotics.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How did we make this site?</title>
+      <link>https://rockemsockemrobotics.com/post/ssglesson1/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://rockemsockemrobotics.com/post/ssglesson1/</guid>
+      <description>What is a Static Site Generator? A static site generator is a tool that takes a set of files and generates a static website from them. The files are usually written in a markup language like Markdown or HTML. The generator then takes these files and generates a website from them. The website is then hosted on a web server. The website is easily updated by simply updating the files and re-running the generator.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://rockemsockemrobotics.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rockemsockemrobotics.com/contact/</guid>
+      <description>Reach out to us with any questions or comments you may have. We&amp;rsquo;d love to hear from you! If you are interested in sponsoring our team, please visit our Sponsors page and then send us a message here with your contact information!
+Your NameEmail AddressAn email address is required.Message</description>
+    </item>
+    
   </channel>
 </rss>

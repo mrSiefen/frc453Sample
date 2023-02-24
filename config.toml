@@ -34,3 +34,15 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/frcteam453?lang=en"
+
+[[params.ananke_socials]]
+name = "youtube"
+url = "https://www.youtube.com/user/RockemSockemRobo"
+
+[[params.ananke_socials]]
+name = "facebook"
+url = "https://www.facebook.com/rockem.sockem.96"
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/kingc95/FRC_453"
