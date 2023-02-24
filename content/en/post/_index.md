@@ -2,4 +2,4 @@
 title: "Articles"
 date: 2023-02-24
 ---
-Articles are paginated with only three posts here for example. You can set the number of entries to show on this page with the "pagination" setting in the config file.
+New articles written by students, mentors and sponsors will be posted here. By default they are shown 3 per page. To view the full article you can click on the articles title.
