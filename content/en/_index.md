@@ -1,8 +1,10 @@
 ---
 title: "FRC 453: Rockem Sockem Robotics"
 theme_version: '2.8.2'
-featured_image: "http://localhost:1313/images/postBG3.jpg"
+featured_image: "http://localhost:1313/images/redblue1.jpg"
 ---
+
+
 
 ## What is FRC?
 
@@ -27,4 +29,4 @@ First Robotics Competition Team 453 is a combined team for the L'Anse Creuse Pub
 
 ## What's the goal of FRC 453?
 
-The biggest goal every year is to have students lead and run the team. We want our students to be able to explain to any professional engineer what they did, why they did it, what parts were used, and sound like pros all at the same time. Our students know the robot inside and out because they build it from start to finish. While we have advisors and mentors, we make sure the students do the work, while the mentors teach and guide.
+Rock’Em Sock'Em Robotics strives to be the best student-led robotics team while having fun. Our team members are mentored by industry professionals, allowing them to develop the skills necessary to compete in the workforce by designing, building, coding, and competing our robots. We pride ourselves on effectively working as a team by brainstorming, communicating, and being gracious professionals.
