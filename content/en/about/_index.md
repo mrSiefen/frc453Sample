@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2023-02-24
-featured_image: "http://localhost:1313/images/postBG13.jpg"
+featured_image: "http://localhost:1313/images/redblue4.jpg"
 ---
 
 ### History
@@ -10,7 +10,7 @@ The team was founded in 2000 in collaboration with L'Anse Creuse Public Schools 
 
 {{< figure src="/images/robotsGEARS.gif" title="G.E.A.R.S. robot pictures" >}}
 
-{{< figure src="/images/banner1.png" title="Newer FIRST Robotics Team 453 Logo" >}}
+{{< figure src="/images/banner1.png" title=" FIRST Robotics Team 453 Logo" >}}
 
 #### Competition List:
 

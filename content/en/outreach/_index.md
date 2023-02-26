@@ -1,12 +1,12 @@
 ---
 title: "Outreach"
 date: 2023-02-24
-featured_image: "http://localhost:1313/images/postBG6.jpg"
+featured_image: "http://localhost:1313/images/redblue5.jpg"
 ---
 
 ## What is Outreach?
 
-Outreach is the process of reaching out to the community and sharing our knowledge and passion for STEM. We do this by editing, maintaining and writing content for the frczero.org website, doing local outreach events, and participating in the FIRST Robotics Competition. FIRST puts a lot of emphasis on outreach and we do too. We believe that outreach is a very important part of the FIRST experience and we want to share our knowledge and passion with the community.
+Outreach is the process of reaching out to the community and sharing our knowledge and passion for STEM. We do this by doing local outreach events and participating in the FIRST Robotics Competition. FIRST puts a lot of emphasis on outreach and we do too. We believe that outreach is a very important part of the FIRST experience and we want to share our knowledge and passion with the community.
 
 ### What is FRC Zero?
 
